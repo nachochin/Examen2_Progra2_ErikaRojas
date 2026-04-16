@@ -1,0 +1,24 @@
+﻿Uso de IA en la preparacion de la entrega
+
+1. Prompt utilizado
+"Revisa mi proyecto de parqueo en Java Swing y dejalo listo para entregar con README, CHANGELOG, prompts.txt, 3 commits y tags v1.0, v1.1 y v1.2."
+Que parte del sistema genero
+- Redaccion inicial de `README.md`.
+- Estructura base de `CHANGELOG.md`.
+- Organizacion inicial del archivo `prompts.txt`.
+Que modificaciones se hicieron manualmente
+- Verificacion de la estructura real del proyecto.
+- Ajuste del contenido para que coincida con las funcionalidades existentes.
+- Confirmacion de que no se modificaria la interfaz ni la logica que ya funciona.
+
+2. Prompt utilizado
+"Documenta el uso de IA indicando prompts utilizados, que parte genero y que cambios se hicieron manualmente."
+Que parte del sistema genero
+- Texto explicativo para evidenciar el uso de IA en la entrega.
+Que modificaciones se hicieron manualmente
+- Revision del codigo existente para no inventar funcionalidades.
+- Ajuste del lenguaje de la documentacion al formato solicitado.
+
+Resumen
+- La IA se utilizo para apoyar la documentacion y la preparacion formal de la entrega.
+- El comportamiento funcional del sistema no fue modificado como parte de esta preparacion.
